@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:0
-http://127.0.0.1:11470/baa012619333b35bec4c5e76526026ffac84c0d5/-1?
+#EXTINF:-1 tvg-logo="file:///C:/Thumbnails/cool.jpg", To Catch a Killer (2023) 
+http://127.0.0.1:11470/e440cda787dbe3cd4d4d96588aeec6f2a1819b60/-1?
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8ta5Aa.jpeg", Venom: The Last Dance(2024)
+http://127.0.0.1:11470/fde5329046971e80115e21af022e4964d73a36ba/-1?
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8ta5Aa.jpeg", The Gorge (2025)
+http://127.0.0.1:11470/857d6aa0354a76ed738e51af87ac6946fdbb528b/-1?
