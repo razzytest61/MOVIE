@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="repository.razzy" name="Razzy Repo" version="1.0.0" provider-name="Razzy">
+        <extension point="xbmc.addon.repository" name="Razzy Repository">
+            <info>https://github.com/razzytest61/MOVIE/repository.razzy/addons.xml</info>
+            <checksum>https://github.com/razzytest61/MOVIE/repository.razzy/addons.xml.md5</checksum>
+            <datadir>https://github.com/razzytest61/MOVIE/repository.razzy/zips/</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Razzy's Kodi Repository</summary>
+            <description>This repository contains Kodi add-ons curated by Razzy.</description>
+            <platform>all</platform>
+        </extension>
+    </addon>
+</addons>
